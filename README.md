@@ -1,2 +1,2 @@
 # solution-stater-mitigate-floods
-Materials for the "Build Back Better" solution starter kit from team 2.
+Materials for the "Improving Flood Prevention and Response" solution starter kit from team 2.
