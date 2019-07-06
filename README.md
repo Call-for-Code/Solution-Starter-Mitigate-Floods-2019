@@ -56,40 +56,40 @@ Big data visualization sits at the core of the solution, enabling the planner to
 
 ## Data sets
 
-- https://callforcode.weather.com/register/
-- https://www.usgs.gov/products/data-and-tools/real-time-data/floods
-- https://www.census.gov/data.html
-- https://sedac.ciesin.columbia.edu/
-- https://www.usgs.gov/products/maps/topo-maps
+- [Weather APIs](https://callforcode.weather.com/register/)
+- [USGS Flood / Stream Data](https://www.usgs.gov/products/data-and-tools/real-time-data/floods)
+- [Census Data](https://www.census.gov/data.html)
+- [Socioeconomic Data](https://sedac.ciesin.columbia.edu/)
+- [Topography Maps](https://www.usgs.gov/products/maps/topo-maps)
 
 ## Tech to implement the solution
 
 * ### Possible IBM Cloud services
 
-  - https://www.ibm.com/cloud/push-notifications
-  - https://cloud.ibm.com/catalog/services/speech-to-text
-  - https://cloud.ibm.com/catalog/services/watson-assistant
-  - https://cloud.ibm.com/catalog/services/mobile-foundation
-  - https://cloud.ibm.com/catalog/services/watson-studio
-  - https://cloud.ibm.com/catalog/services/machine-learning
-  - https://cloud.ibm.com/catalog/services/cloud-object-storage
+  - [Push Notifications](https://www.ibm.com/cloud/push-notifications)
+  - [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text)
+  - [Watson Assistant / Chatbot](https://cloud.ibm.com/catalog/services/watson-assistant)
+  - [Mobile Foundation](https://cloud.ibm.com/catalog/services/mobile-foundation)
+  - [Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio)
+  - [Watson Machine Learning](https://cloud.ibm.com/catalog/services/machine-learning)
+  - [Cloud Object Storage](https://cloud.ibm.com/catalog/services/cloud-object-storage)
 
 * ### IBM Code Patterns and tutorials
-  - https://developer.ibm.com/tutorials/use-drones-after-floods-to-help-survivors-watson-visual-recognition/
-  - https://developer.ibm.com/patterns/create-ios-app-uses-builtin-custom-classifiers/
-  - https://developer.ibm.com/patterns/weather-forecasting-for-ios/
-  - https://developer.ibm.com/patterns/tag-based-push-notifications-for-hybrid-mobile-applications/
-  - https://developer.ibm.com/patterns/tone-analyzer-for-ios/
-  - https://developer.ibm.com/patterns/perform-a-machine-learning-exercise/
-  - https://developer.ibm.com/patterns/generate-insights-from-multiple-data-sources-using-watson-studio/
+  - [Survey flooded neighborhoods to identify survivors on rooftops and detect rescue boats](https://developer.ibm.com/tutorials/use-drones-after-floods-to-help-survivors-watson-visual-recognition/)
+  - [Create an iOS app that uses built in and custom classifiers](https://developer.ibm.com/patterns/create-ios-app-uses-builtin-custom-classifiers/)
+  - [Create a Mobile App with Weather Forecasting](https://developer.ibm.com/patterns/weather-forecasting-for-ios/)
+  - [Add push notifications to your hybrid mobile apps](https://developer.ibm.com/patterns/tag-based-push-notifications-for-hybrid-mobile-applications/)
+  - [Create a mobile app that analyzes the emotions of content](https://developer.ibm.com/patterns/tone-analyzer-for-ios/)
+  - [Perform a machine learning exercise​](https://developer.ibm.com/patterns/perform-a-machine-learning-exercise/)
+  - [Generate insights from multiple data sources](https://developer.ibm.com/patterns/generate-insights-from-multiple-data-sources-using-watson-studio/)
 
 * ### Possible open source technologies
-  - https://github.com/pixiedust/pixiedust
+  - [PixieDust Visualization](https://github.com/pixiedust/pixiedust)
 
 ## Resources for futher reading, research, and learning
-- https://www.unisdr.org/archive/58108
-- https://www.youtube.com/watch?v=20bknRt2jFQ
-- https://www.unocha.org/middle-east-and-north-africa-romena/egypt
+- [Background on the problems of floods and droughts from the UN Office for Disaster Risk Reduction](https://www.unisdr.org/archive/58108)
+- [Example solution: Code and Response Documentary: WOTA Trailer](https://www.youtube.com/watch?v=20bknRt2jFQ)
+- [Specific issues in Northern Africa](https://www.unocha.org/middle-east-and-north-africa-romena/egypt)
 
 ## License
 
