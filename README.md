@@ -1,4 +1,4 @@
-# Solution Starter: Building Back Better to Reduce the Impact of Future Disasters
+# Solution Starter: Improving Flood and Drought Prevention and Response
 
 This solution starter was created by Team Two at the United Nations Human Rights Office in Geneva, Switzerland on June 3-4, 2019. It features contributions by technologists from Capgemini, Lloyds, RBS, Deutsche Telekom, and IBM. 
 
@@ -20,7 +20,7 @@ Use the proposed solution idea below to inspire what you build to address this p
 
 ## Video
 
-[![Call For Code Solution Starter Kit: Building Back Better](https://img.youtube.com/vi/JQzkbc8sEjk/0.jpg)](https://www.youtube.com/watch?v=JQzkbc8sEjk)
+[![Call For Code Solution Starter Kit: Flood & Drought Prevention & Response](https://img.youtube.com/vi/JQzkbc8sEjk/0.jpg)](https://www.youtube.com/watch?v=JQzkbc8sEjk)
 
 ## The idea
 
